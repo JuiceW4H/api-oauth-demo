@@ -23,5 +23,4 @@ public class SecurityConfig {
                 .formLogin(withDefaults())
                 .build();
     }
-
 }
